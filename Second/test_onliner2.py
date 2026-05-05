@@ -11,7 +11,7 @@ def test_guest_reg(browser):
 
     input1 = browser.find_element(By.ID, "answer")
     input1.send_keys(y)
-    time.sleep(10)
+    time.sleep(11)
 
 
     
